@@ -1,0 +1,15 @@
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.csproj.AssemblyReference.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.AssemblyInfoInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.AssemblyInfo.cs
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\bin\Debug\net7.0\ConsoleAppreflection.exe
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\bin\Debug\net7.0\ConsoleAppreflection.deps.json
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\bin\Debug\net7.0\ConsoleAppreflection.runtimeconfig.json
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\bin\Debug\net7.0\ConsoleAppreflection.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\bin\Debug\net7.0\ConsoleAppreflection.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\refint\ConsoleAppreflection.dll
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.pdb
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ConsoleAppreflection.genruntimeconfig.cache
+C:\Users\ca.r215.17\Desktop\ConsoleAppreflection\ConsoleAppreflection\obj\Debug\net7.0\ref\ConsoleAppreflection.dll
